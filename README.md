@@ -1,4 +1,6 @@
 # ChaosExplorer
+<img src='fractalz.PNG'>
+
 A dynamic recursive complex number processor for Windows. 
 
 
