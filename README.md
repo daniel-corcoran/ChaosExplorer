@@ -1,4 +1,4 @@
-# ChaosExplorer
+# Chaos-_-Explorer
 <img src='fractalz.PNG'>
 
 1. kernel.cu is the entrypoint when compiling for CUDA-compatible hosts
