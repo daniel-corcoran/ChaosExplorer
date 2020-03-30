@@ -1,0 +1,11 @@
+CC = nvcc
+CFLAGS = -std = c++11 --compiler - options - Wall --compiler - options - Wextra --compiler - options - ggdb
+LDFLAGS = -lsfml - graphics - lsfml - window - lsfml - system - lcurand
+
+all : test2
+
+	% : %.o
+	$(CC) $(CFLAGS) $^ -o $@ $(LDFLAGS)
+
+	% .o: %.cu myutils.hpp
+	$(CC) $(CFLAGS) $ < -c
