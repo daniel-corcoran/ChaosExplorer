@@ -1,6 +1,4 @@
 //---CUDA BUILD---//
-//DANIEL CORCORAN IS A PROGRAMMING GOD
-
 
 #include <iostream>
 #include <SFML/Graphics.hpp>
